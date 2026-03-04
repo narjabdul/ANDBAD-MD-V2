@@ -22,7 +22,7 @@ module.exports = {
             // Prepare the API request
             const number = text.replace(/[^0-9]/g, '');
             const encodedNumber = encodeURIComponent(number);
-            const apiUrl = `https://andbad-pair-v2.onrender.com/code?number=${encodedNumber}`;
+            const apiUrl = `https://andbad-pairb.onrender.com/code?number=${encodedNumber}`;
 
             // Fetch the pairing code from the API
             const response = await axios.get(apiUrl);
