@@ -1,5 +1,5 @@
 {
-  "name": "𝐀𝐍𝐃𝐁𝐀𝐃",
+  "name": "MUHENGA",
   "version": "7.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "whatsapp-multi-device"
   ],
   "base": "https://github.com/Mrandbad/ANDBAD-MD-V2",
-  "author": "Fredi",
+  "author": "Narj",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
